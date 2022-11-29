@@ -1,0 +1,10 @@
+.ll{
+    transition: 2s;
+}
+.ll:hover{
+    color:blue ;
+}
+
+.name{
+    color: blueviolet !important;
+}

@@ -1,0 +1,11 @@
+.brdro{
+    width: 25%;
+    margin-bottom: 30px;
+    height: var(--borderHeight);
+    background-color: var(--borderColor);
+}
+.brdr{
+    width: 100%;
+    height: var(--borderHeight);
+    background-color: var(--borderColor);
+}

@@ -1,0 +1,18 @@
+:root{
+    --borderColor:#a8a8a83d;
+    --borderHeight:2px;
+}
+.brdro{
+    width: 25%;
+    margin-bottom: 30px;
+    height: var(--borderHeight);
+    background-color: var(--borderColor);
+}
+.brdr{
+    width: 100%;
+    height: var(--borderHeight);
+    background-color: var(--borderColor);
+}
+.hover:hover{
+    cursor: pointer;
+}
